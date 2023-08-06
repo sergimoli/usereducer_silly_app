@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+
+form{
+  margin-bottom: 50px;
+}
+/* a cada element */
+form *{
+  display: block;
+  /* margin: 15px; */
+  margin: 15px auto;
+  padding: 20px;
+}
